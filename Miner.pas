@@ -1,5 +1,5 @@
 program lolkek;
 
 begin
-    writeln('Hello world');
+    writeln(1 + 1);
 end.
